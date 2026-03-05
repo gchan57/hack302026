@@ -46,6 +46,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '983069725728',
     projectId: 'hack30-93be7',
     authDomain: 'hack30-93be7.firebaseapp.com',
+    databaseURL: 'https://hack30-93be7-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'hack30-93be7.firebasestorage.app',
     measurementId: 'G-1J5W8CF2XC',
   );
@@ -55,6 +56,7 @@ class DefaultFirebaseOptions {
     appId: '1:983069725728:android:26ef42367b11aed75ad845',
     messagingSenderId: '983069725728',
     projectId: 'hack30-93be7',
+    databaseURL: 'https://hack30-93be7-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'hack30-93be7.firebasestorage.app',
   );
 
@@ -63,6 +65,7 @@ class DefaultFirebaseOptions {
     appId: '1:983069725728:ios:bbb1856bf6cc02ed5ad845',
     messagingSenderId: '983069725728',
     projectId: 'hack30-93be7',
+    databaseURL: 'https://hack30-93be7-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'hack30-93be7.firebasestorage.app',
     iosBundleId: 'com.example.hack302026',
   );
@@ -72,6 +75,7 @@ class DefaultFirebaseOptions {
     appId: '1:983069725728:ios:bbb1856bf6cc02ed5ad845',
     messagingSenderId: '983069725728',
     projectId: 'hack30-93be7',
+    databaseURL: 'https://hack30-93be7-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'hack30-93be7.firebasestorage.app',
     iosBundleId: 'com.example.hack302026',
   );
@@ -82,7 +86,9 @@ class DefaultFirebaseOptions {
     messagingSenderId: '983069725728',
     projectId: 'hack30-93be7',
     authDomain: 'hack30-93be7.firebaseapp.com',
+    databaseURL: 'https://hack30-93be7-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'hack30-93be7.firebasestorage.app',
     measurementId: 'G-XKN8GJPS5Z',
   );
+
 }
